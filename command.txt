@@ -1,3 +1,5 @@
 Git上传设置代理终端命令：
 git config --global http.proxy http://127.0.0.1:7897                                   
 git config --global https.proxy http://127.0.0.1:7897
+git log:
+查看本地的commit历史
